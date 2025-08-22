@@ -30,7 +30,6 @@ It uses **Logistic Regression**, which is a popular **classification algorithm**
    ```python
    import pandas as pd
    cancer = pd.read_csv("https://github.com/YBIFoundation/Dataset/raw/main/Cancer.csv")
-````
 
 3. **Explore Data**
 
