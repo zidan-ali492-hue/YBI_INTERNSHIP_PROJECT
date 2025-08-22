@@ -1,4 +1,3 @@
-````markdown
 # 🩺 Cancer Prediction using Machine Learning
 
 This project builds a **Machine Learning model** to predict whether a patient has **cancer** or not, based on cell sample data.  
